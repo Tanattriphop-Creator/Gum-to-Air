@@ -117,4 +117,5 @@ Version: 3.0 (Mastication-Triggered Edition)
 
 ​Silver Edition: Focus on Easy-grip ergonomics and the Tethered Spool Control system.
 ​Extreme Edition: Focus on maximum O2 release efficiency and the Hexagonal Dimple surface structure.
+
 ==========
