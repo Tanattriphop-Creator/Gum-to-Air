@@ -101,6 +101,7 @@ Version: 3.0 (Mastication-Triggered Edition)
 
 ​Anti-choke Safety Systems
 ​For the Kids Edition and Silver Edition, the documentation must specify three levels of safety features:
+
 ​1. Tethered Spool Control
 ​Mechanical Stopper: The case must be equipped with an internal stopper mechanism at the end of the wire.
 ​Controlled Dosing: Designed to dispense no more than 5 cm (1 Dose) at a time to prevent excess wire from entering the oral cavity and posing a choking hazard.
