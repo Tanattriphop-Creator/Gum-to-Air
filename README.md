@@ -98,7 +98,7 @@ Version: 3.0 (Mastication-Triggered Edition)
 ​Pattern Depth: 0.2 mm (to improve grip within the dental grooves/fissures).
 ​Technical Outcome: Increases the Effective Surface Area by 15%, stabilizing gas release even for users with low bite force (e.g., children or the elderly).
 
-​🛡️ Anti-choke Safety Systems
+​Anti-choke Safety Systems
 ​For the Kids Edition and Silver Edition, the documentation must specify three levels of safety features:
 ​1. Tethered Spool Control
 ​Mechanical Stopper: The case must be equipped with an internal stopper mechanism at the end of the wire.
