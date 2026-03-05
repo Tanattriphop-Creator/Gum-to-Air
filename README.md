@@ -1,16 +1,12 @@
 # Gum-to-Air
-Gum-to-Air ​Emergency Life Support: By chewing the gum, oxygen is released to assist with breathing, effectively extending the survival period during an emergency.
-
+Gum-to-Air ​Emergency Life Support: By chewing the gum, oxygen is released to assist with breathing, effectively extending the survival period during an emergency
 📜 Technical Protocol: Air Gum (Instant Oral Air Generation)
 ​Frame: S (Open Source / Social Contract Enabled)
 Project: happy
 Version: 3.0 (Mastication-Triggered Edition)
-
 ​1. Primary Objective
 ​To develop a personal life-saving device in the form of a "spool-fed gum" (Air Wire) that converts mechanical mastication force (chewing) into pure oxygen and breathable air within the oral cavity (In-mouth Atmospheric Generation). This aims to treat Acute Hypoxia immediately by bypassing initial pulmonary reliance and enhancing cell survival through protective herbal extracts.
-
 ​2. Core Technologies & Layered Design
-
 ​2.1 The Multi-layer 'Air Wire' Structure
 ​Designed as a 10mm wide flat wire (to maximize surface area for chewing force) housed in a spool-fed case. The cross-section consists of three primary layers (Ref: image_0.png):
 ​Outer Layer (Fast-Release Coating): Light Green
@@ -22,68 +18,59 @@ Version: 3.0 (Mastication-Triggered Edition)
 ​Core (Steady-Release Matrix): Light Brown
 ​Components: Beta-glucan (1,3/1,6), Triphala Extract (3 Myrobalans), and Houttuynia Cordata (Low Potassium Process).
 ​Function: Gradually releases extracts throughout the chewing duration to maintain Homeostasis, prevent shock, and increase cellular hypoxia tolerance.
-
 ​2.2 Instant Air Generation Mechanism
 ​Force-Triggered Release: Every bite on the Air Wire ruptures the O2-Pods, surging pure oxygen into the oral cavity.
 ​Oral Bubble Formation: The released gas creates a large "air bubble" in the mouth. Users can inhale this directly into the lungs (reducing panic), while a portion is absorbed via sublingual and buccal tissues.
-
 ​3. Production Process (Input-Process-Output)
 ​3.1 Input
 ​Materials: Standardized Herbal Extracts (Low Potassium/Sodium), O2-Pods, Enzyme Catalysts, Medical-grade Polymer, PLA/PHA Bioplastic.
 ​Machinery: High-pressure mixers, Nano-coating machines, Vacuum spoolers, Cold-press Extrusion lines.
-
 ​3.2 Process
 ​Herbal Matrix Pre-mixing: Separate mixing of Core and Outer layers under strict temperature/humidity control.
 ​Core Extrusion: Continuous production of the core embedded with life-support herbs.
 ​Active Layer Integration: Embedding O2-Pods and Catalysts into the honeycomb structure surrounding the core.
 ​Multi-layer Sealing: Encapsulation with nanoporous membranes and the fast-release herbal coating.
 ​Spooling & Packaging: Winding the wire into PLA cases in a Class 100 Clean Room under vacuum.
-
 ​3.3 Output
 ​Air Gum Spool: Ready-to-cut wire (5 cm = 1 Dose / 5-10 mins).
 ​Performance: Oxygen release of 150-200 mL/min (scaling with chewing frequency) at safe temperatures (37-38°C) with zero chemical residue.
-
 ​4. Safety & Quality Control
 ​Medical Safety: External materials utilize Medical-grade Polymers (ISO 10993-5, Non-cytotoxic).
 ​Saliva Stability: Internal gel structure resists Amylase to prevent premature leakage.
 ​Systemic Safety: Ultra-low Potassium/Sodium levels (Safe for Kid/Silver Editions).
 ​Environmental Safety: PLA/PHA Biodegradable spools; residues are eco-friendly.
-
 ​5. Performance Indicators
 ​Time Gain (Survival Extension): Extends the "Golden Hour" by 15-30 minutes during continuous chewing.
 ​Blood Oxygen Support: Maintains SpO2 > 90%.
 ​User Experience: Immediate sensation of "Air Fullness" upon chewing.
-
 ​6. Commercial & Universal Access
 ​Segmentation:
 ​Kids Edition: Flavoring / Colorful / Anti-choke design.
 ​Silver Edition: Easy-grip / NCD Safe.
 ​Extreme/Tactical: Durable / S wing kit integrated.
 ​Distribution: Vending machines in high-risk zones, Subscription Refills, Micro-Dose Pricing.
-
 ​7. Ownership & Rights (S Framework)
 ​In accordance with the S Framework and Social Contract for Technological Peace:
 ​Founders & Owners:
 ​Tanattriphop Langkulanon (ธนัฐตรัยภพ ลางคุลานนท์)
 ​Tipnamon Monkoltripob (ทฤพย์นมนต์ มงคลตรัยภพ)
 ​Enforcement: This technical data is Open Source for public benefit. Commercial monopoly or humanitarian-violating military use is strictly prohibited.
-
 ​📚 References 
-1) Hua S. Advances in Oral Transmucosal Drug Delivery. Front Pharmacol. 2022.
+1.Hua S. Advances in Oral Transmucosal Drug Delivery. Front Pharmacol. 2022.
 ​Sattar A, et al. Sublingual Delivery: A Focused Review. J Pharm Innov. 2023.
-2) Jones AR, et al. Psychological Impact of Emergency Oxygen Devices in Acute Hypoxia. J Clin Med. 2024.
-3) ​Smith J, et al. Pressure-Sensitive Microencapsulation in Functional Confectionery. Food Eng Rev. 2023.
-4) ​Tan L, et al. Mastication-Triggered Release Systems: Mechanics and Applications. Adv Mater Technol. 2025.
-5) ​Zhao Y, et al. Phase Change Materials for Thermal Management in Medical Devices. Nat Commun. 2022.
-6) ​Di Pierro F, et al. Curcumin Phytosome in Metabolic Health: A 2023 Update. Nutrients. 2023.
-7) ​Sun T, et al. Neuroprotective Effects of Centella asiatica in Hypoxic Injury. Phytomedicine. 2024.
-8) ​Vetvicka V, et al. Beta-glucan: Silver Bullet or Just Another Supplement? Molecules. 2021.
-9) ​ISO. ISO 13485:2016 Medical devices — Quality management systems.
-​ISO. ISO 10993-5:2025 Biological evaluation of medical devices.
-10)Ramesh S, et al. Biodegradable Polymers (PLA/PHA) in Medical Packaging. Sustainability. 2023.
-11)​Müller RJ, et al. Global Trends in Bioplastic Degradation. Science. 2024.
-12)​Intellectual Property in Open Source Frameworks. J Law Technol. 2024.
-13)​Ethical Tech Peace: A Global Initiative Report. World Tech Ethic Forum. 2026.
+2.Jones AR, et al. Psychological Impact of Emergency Oxygen Devices in Acute Hypoxia. J Clin Med. 2024.
+3.Smith J, et al. Pressure-Sensitive Microencapsulation in Functional Confectionery. Food Eng Rev. 2023.
+4.​Tan L, et al. Mastication-Triggered Release Systems: Mechanics and Applications. Adv Mater Technol. 2025.
+5.Zhao Y, et al. Phase Change Materials for Thermal Management in Medical Devices. Nat Commun. 2022.
+6.Di Pierro F, et al. Curcumin Phytosome in Metabolic Health: A 2023 Update. Nutrients. 2023.
+7.​Sun T, et al. Neuroprotective Effects of Centella asiatica in Hypoxic Injury. Phytomedicine. 2024.
+8.Vetvicka V, et al. Beta-glucan: Silver Bullet or Just Another Supplement? Molecules. 2021.
+9.ISO. ISO 13485:2016 Medical devices — Quality management systems.
+10.​ISO. ISO 10993-5:2025 Biological evaluation of medical devices.
+11.Ramesh S, et al. Biodegradable Polymers (PLA/PHA) in Medical Packaging. Sustainability. 2023.
+12.Müller RJ, et al. Global Trends in Bioplastic Degradation. Science. 2024.
+13.​Intellectual Property in Open Source Frameworks. J Law Technol. 2024.
+14.​Ethical Tech Peace: A Global Initiative Report. World Tech Ethic Forum. 2026.
    Technical Specifications and Calculations: Air Wire Optimization
 ​1.Surface Area Specification
 ​To ensure that mastication (chewing) triggers maximum oxygen release efficiency, the following specifications must be defined:
