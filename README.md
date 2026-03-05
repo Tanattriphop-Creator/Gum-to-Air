@@ -91,14 +91,13 @@ Version: 3.0 (Mastication-Triggered Edition)
 ​Standard Width: 10 mm (to ensure even pressure distribution across the molars).
 ​Length per Bite: 5 – 8 mm (the average contact range of human teeth during a single chew).
 ​Total Contact Area: Designed at approximately 50 – 80 mm² per bite to ensure O2-Pods are fully compressed and activated.
-
 ​2. Surface Texture Enhancement
 ​To increase activation efficiency without expanding the wire size, the following structural designs are implemented:
 ​Texture Pattern: "Hexagonal Dimples" (Honeycomb pattern) on the Air Wire surface.
 ​Pattern Depth: 0.2 mm (to improve grip within the dental grooves/fissures).
 ​Technical Outcome: Increases the Effective Surface Area by 15%, stabilizing gas release even for users with low bite force (e.g., children or the elderly).
-
-​Anti-choke Safety Systems
+​
+Anti-choke Safety Systems
 ​For the Kids Edition and Silver Edition, the documentation must specify three levels of safety features:
 ​1. Tethered Spool Control
 ​Mechanical Stopper: The case must be equipped with an internal stopper mechanism at the end of the wire.
