@@ -80,20 +80,17 @@ Version: 3.0 (Mastication-Triggered Edition)
 8) ​Vetvicka V, et al. Beta-glucan: Silver Bullet or Just Another Supplement? Molecules. 2021.
 9) ​ISO. ISO 13485:2016 Medical devices — Quality management systems.
 ​ISO. ISO 10993-5:2025 Biological evaluation of medical devices.
-10) ​Ramesh S, et al. Biodegradable Polymers (PLA/PHA) in Medical Packaging. Sustainability. 2023.
-11) ​Müller RJ, et al. Global Trends in Bioplastic Degradation. Science. 2024.
-​Intellectual Property in Open Source Frameworks. J Law Technol. 2024.
-​Ethical Tech Peace: A Global Initiative Report. World Tech Ethic Forum. 2026.
-T
-Technical Specifications and Calculations: Air Wire Optimization
-​1.
-Surface Area Specification
+10)Ramesh S, et al. Biodegradable Polymers (PLA/PHA) in Medical Packaging. Sustainability. 2023.
+11)​Müller RJ, et al. Global Trends in Bioplastic Degradation. Science. 2024.
+12)​Intellectual Property in Open Source Frameworks. J Law Technol. 2024.
+13)​Ethical Tech Peace: A Global Initiative Report. World Tech Ethic Forum. 2026.
+   Technical Specifications and Calculations: Air Wire Optimization
+​1.Surface Area Specification
 ​To ensure that mastication (chewing) triggers maximum oxygen release efficiency, the following specifications must be defined:
 ​Standard Width: 10 mm (to ensure even pressure distribution across the molars).
 ​Length per Bite: 5 – 8 mm (the average contact range of human teeth during a single chew).
 ​Total Contact Area: Designed at approximately 50 – 80 mm² per bite to ensure O2-Pods are fully compressed and activated.
-​2.
-Surface Texture Enhancement
+​2.Surface Texture Enhancement
 ​To increase activation efficiency without expanding the wire size, the following structural designs are implemented:
 ​Texture Pattern: "Hexagonal Dimples" (Honeycomb pattern) on the Air Wire surface.
 ​Pattern Depth: 0.2 mm (to improve grip within the dental grooves/fissures).
